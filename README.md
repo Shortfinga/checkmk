@@ -1,6 +1,7 @@
 # Checkmk - Your complete IT monitoring solution
 
 ![PR-CI status](https://github.com/Checkmk/checkmk/actions/workflows/pr.yaml/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FShortfinga%2Fcheckmk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FShortfinga%2Fcheckmk?ref=badge_shield)
 
 Checkmk is available in several editions.
 The Checkmk Raw Edition is free and 100% open-source.
@@ -42,3 +43,7 @@ To create a DEB package:
 
 Don't forget to insert your name and mail address.
 As a result you should find packages of the form `check-mk-[edition]-[version].[deb|rpm]` in your current directory.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FShortfinga%2Fcheckmk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FShortfinga%2Fcheckmk?ref=badge_large)
